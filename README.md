@@ -43,8 +43,7 @@ cd
 # Tests
 To run the tests should takes < 3min.
 ```
-pip install nose
-pip install nose-timer
+pip install nose nose-timer matplotlib nbformat
 cd BranchedGP/testing
 nosetests --pdb-failures --pdb --with-timer
 ```

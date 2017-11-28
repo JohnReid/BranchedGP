@@ -1,0 +1,7 @@
+tensorflow-gpu
+git+https://github.com/GPflow/GPflow.git
+nose
+nose-timer
+jupyter
+matplotlib
+nbformat
